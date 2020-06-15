@@ -6,4 +6,4 @@ add
 new
 more
 branch
-hebing or
+hebing and
