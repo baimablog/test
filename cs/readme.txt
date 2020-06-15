@@ -7,4 +7,4 @@ new
 more
 branch
 add
-cs cd
+Creating a new branch is quick & simple.
