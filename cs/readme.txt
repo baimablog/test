@@ -3,3 +3,4 @@ Git is free software.
 cs
 Git tracks changes.
 add
+new
